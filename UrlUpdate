@@ -1,11 +1,11 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "Teste",
-  "UrlUpdate": "https://raw.githubusercontent.com/juninho472/ATT/main/Termos.html",
-  "Sms": "https://raw.githubusercontent.com/juninho472/ATT/main/Termos.html",
+  "UrlUpdate": "https://juninho472.github.io/UrlUpdate",
+  "Sms": "https://juninho472.github.io/Termos.html",
   "EmailFeedback": "juninho.costa472@gmail.com",
   "UrlContato": "https://t.me/juninho472",
-  "UrlTermos": "https://raw.githubusercontent.com/juninho472/ATT/main/Termos.html",
+  "UrlTermos": "https://juninho472.github.io/Termos.html",
   "CheckUser": "true",
   "Udp": [
     {
