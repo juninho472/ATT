@@ -1,6 +1,6 @@
 {
   "Version": "1.0.1",
-  "ReleaseNotes": "Teste",
+  "ReleaseNotes": "teste update",
   "UrlUpdate": "https://juninho472.github.io/UrlUpdate",
   "Sms": "https://juninho472.github.io/Termos.html",
   "EmailFeedback": "juninho.costa472@gmail.com",
@@ -30,7 +30,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ss.top-net.xyz",
-      "CheckUser": "http://ss.top-net.xyz:5000/check/",
+      "CheckUser": "http://ss.top-net.xyz:5000/check",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
