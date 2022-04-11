@@ -6,7 +6,7 @@
   "EmailFeedback": "juninho.costa472@gmail.com",
   "UrlContato": "https://t.me/juninho472",
   "UrlTermos": "https://juninho472.github.io/Termos.html",
-  "CheckUser": "true",
+  "CheckUser": "false",
   "Udp": [
     {
       "Porta": "7300"
