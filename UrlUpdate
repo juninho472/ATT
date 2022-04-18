@@ -8,6 +8,9 @@
   "UrlTermos": "https://juninho472.github.io/Termos.html",
   "CheckUser": "true",
   "Udp": [
+   {
+      "Porta": "7200"
+    },
     {
       "Porta": "7300"
     },
