@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.6",
-  "ReleaseNotes": "Versão 1.0.2",
+  "Version": "1.0.1",
+  "ReleaseNotes": "Versão 1.0.1",
   "UrlUpdate": "https://juninho472.github.io/UrlUpdate",
   "Sms": "https://juninho472.github.io/UrlSms",
   "EmailFeedback": "juninho.costa472@gmail.com",
@@ -29,7 +29,7 @@
   ],
   "Servers": [
     {
-      "Name": "CONECTA4G | PLUS",
+      "Name": "CONECTA4G 0 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ss.top-net.xyz",
